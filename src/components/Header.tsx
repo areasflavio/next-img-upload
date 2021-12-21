@@ -9,6 +9,7 @@ export function Header(): JSX.Element {
     <>
       <Box bgColor="pGray.800">
         <Flex
+          flexDirection={['column', 'row']}
           justifyContent="space-between"
           alignItems="center"
           maxW={1120}
@@ -17,7 +18,9 @@ export function Header(): JSX.Element {
           py={6}
         >
           <Image src="logo.svg" h={10} />
-          <Button onClick={() => onOpen()}>Adicionar imagem</Button>
+          <Button mt={['4', '0']} onClick={() => onOpen()}>
+            Adicionar imagem
+          </Button>
         </Flex>
       </Box>
 
