@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { Button, Box } from '@chakra-ui/react';
 import { useMemo } from 'react';
 import { useInfiniteQuery } from 'react-query';
@@ -55,6 +56,10 @@ export default function Home(): JSX.Element {
 
   return (
     <>
+      <Head>
+        <title>upFi</title>
+      </Head>
+
       <Header />
 
       <Box maxW={1120} px={[10, 15, 20]} mx="auto" my={[10, 15, 20]}>

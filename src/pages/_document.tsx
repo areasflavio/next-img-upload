@@ -29,8 +29,6 @@ export default class MyDocument extends Document {
             href="/favicon-16x16.png"
           />
           <link rel="manifest" href="/site.webmanifest" />
-
-          <title>upFi</title>
         </Head>
         <body>
           <Main />
