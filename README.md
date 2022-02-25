@@ -9,12 +9,6 @@
 </h2>
 
 <p align="center">
-  <a href="#computer-features">Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#keyboard-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#computer_mouse-installation">Installation</a>
-</p>
-
-<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/areasflavio/next-img-upload.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/areasflavio/next-img-upload.svg">
@@ -24,7 +18,11 @@
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="#star-features">Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#keyboard-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#computer_mouse-installation">Installation</a>
+</p>
 
 <img alt="demo" src=".github/demo.gif" width="100%">
 <img alt="demo1" src=".github/demo1.png" width="100%">
@@ -33,7 +31,9 @@
 
 <br/>
 
-# :computer: Features
+# :star: Features
+
+[(Back to top)](#next-img-upload)
 
 This is a simple image host app. Send your images to the cloud.
 
@@ -60,8 +60,6 @@ Typescript.
 <p align="center">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-
-[(Back to top)](#next-img-upload)
 
 <br/>
 
