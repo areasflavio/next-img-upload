@@ -53,6 +53,7 @@ export default function Home(): JSX.Element {
     <>
       <Head>
         <title>upFi</title>
+        <meta name="description" content="Simple image host" />
       </Head>
 
       <Header />

@@ -17,7 +17,7 @@ export function Header(): JSX.Element {
           px={20}
           py={6}
         >
-          <Image src="logo.svg" h={10} />
+          <Image src="logo.svg" alt="upfi" h={10} />
           <Button mt={['4', '0']} onClick={() => onOpen()}>
             Adicionar imagem
           </Button>

@@ -36,6 +36,7 @@ export function Card({ data, viewImage }: CardProps): JSX.Element {
           onClick={() => viewImage(data.url)}
           onLoad={() => setIsLoading(false)}
           cursor="pointer"
+          sizes="responsive"
         />
       </Skeleton>
 
